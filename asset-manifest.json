@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/data-science-site/static/js/main.356b0450.chunk.js",
-    "main.js.map": "/data-science-site/static/js/main.356b0450.chunk.js.map",
+    "main.js": "/data-science-site/static/js/main.64d86d87.chunk.js",
+    "main.js.map": "/data-science-site/static/js/main.64d86d87.chunk.js.map",
     "runtime-main.js": "/data-science-site/static/js/runtime-main.07671e3c.js",
     "runtime-main.js.map": "/data-science-site/static/js/runtime-main.07671e3c.js.map",
     "static/js/2.8b65319d.chunk.js": "/data-science-site/static/js/2.8b65319d.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.07671e3c.js",
     "static/js/2.8b65319d.chunk.js",
-    "static/js/main.356b0450.chunk.js"
+    "static/js/main.64d86d87.chunk.js"
   ]
 }

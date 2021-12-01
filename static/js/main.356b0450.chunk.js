@@ -1,2 +1,0 @@
-(this["webpackJsonpdata-science-site"]=this["webpackJsonpdata-science-site"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);c(1);var n=c(3),s=c.n(n),i=c(0),r=function(){return Object(i.jsx)("div",{children:Object(i.jsx)("h1",{children:"Hello Github Page"})})};s.a.render(Object(i.jsx)(r,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.356b0450.chunk.js.map
