@@ -19,6 +19,7 @@ export const Title = styled.div`
   font-size: ${({ fs }) => fs || "6rem"};
   margin: ${({ m }) => m || "3.5rem 0"};
   text-decoration: ${({ td }) => td || "none"};
+  text-align: ${({ ta }) => ta || ""};
 `;
 
 export const Text = styled.div`
@@ -61,13 +62,14 @@ export const Divider = styled.div`
   @import url("https://fonts.googleapis.com/css2?family=Festive&display=swap");
   text-align: center;
   font-size: 7rem;
-  margin-bottom: 3.5rem;
+  margin-bottom: 1.5rem;
   color: #bdbdbd;
-  font-family: "Festive", cursive;
+  font-family: "Festive", "cursive";
   &::after {
     content: "...";
     font-size: 7rem;
     color: #bdbdbd;
+    margin-top: -2rem;
     display: block;
     text-align: center;
     letter-spacing: 0.5rem;
