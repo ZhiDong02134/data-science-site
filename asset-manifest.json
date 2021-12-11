@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.js": "/data-science-site/static/js/main.a046664c.chunk.js",
-    "main.js.map": "/data-science-site/static/js/main.a046664c.chunk.js.map",
+    "main.js": "/data-science-site/static/js/main.beae579e.chunk.js",
+    "main.js.map": "/data-science-site/static/js/main.beae579e.chunk.js.map",
     "runtime-main.js": "/data-science-site/static/js/runtime-main.07671e3c.js",
     "runtime-main.js.map": "/data-science-site/static/js/runtime-main.07671e3c.js.map",
-    "static/js/2.944ee982.chunk.js": "/data-science-site/static/js/2.944ee982.chunk.js",
-    "static/js/2.944ee982.chunk.js.map": "/data-science-site/static/js/2.944ee982.chunk.js.map",
+    "static/js/2.e90ef0ba.chunk.js": "/data-science-site/static/js/2.e90ef0ba.chunk.js",
+    "static/js/2.e90ef0ba.chunk.js.map": "/data-science-site/static/js/2.e90ef0ba.chunk.js.map",
     "index.html": "/data-science-site/index.html",
-    "static/js/2.944ee982.chunk.js.LICENSE.txt": "/data-science-site/static/js/2.944ee982.chunk.js.LICENSE.txt",
+    "static/js/2.e90ef0ba.chunk.js.LICENSE.txt": "/data-science-site/static/js/2.e90ef0ba.chunk.js.LICENSE.txt",
     "static/media/death_counts.89848d7f.png": "/data-science-site/static/media/death_counts.89848d7f.png",
-    "static/media/death_counts_by_sex.fc500849.png": "/data-science-site/static/media/death_counts_by_sex.fc500849.png"
+    "static/media/death_counts_by_sex.a4457697.png": "/data-science-site/static/media/death_counts_by_sex.a4457697.png",
+    "static/media/death_rate_leading_cause.909faae7.png": "/data-science-site/static/media/death_rate_leading_cause.909faae7.png",
+    "static/media/death_rate_leading_cause_by_race.10dbbce3.png": "/data-science-site/static/media/death_rate_leading_cause_by_race.10dbbce3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.07671e3c.js",
-    "static/js/2.944ee982.chunk.js",
-    "static/js/main.a046664c.chunk.js"
+    "static/js/2.e90ef0ba.chunk.js",
+    "static/js/main.beae579e.chunk.js"
   ]
 }
